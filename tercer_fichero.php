@@ -1,0 +1,6 @@
+<?php
+
+
+soluciona un problema 
+
+?>
