@@ -1,4 +1,4 @@
-# OBJETIVO REPOSITORIO
+# PRUEBAS CON GIT
 
 # una almoadillas al inicio [H1]
 ## dos almoadillas al inicio [H2]
