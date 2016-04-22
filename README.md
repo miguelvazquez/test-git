@@ -1,27 +1,20 @@
-## OBJETIVO REPOSITORIO
+# OBJETIVO REPOSITORIO
 
-### tres almoadillas al inicio
-## dos almoadillas al inicio
-# una almoadillas al inicio
-
-### tres almoadillas al inicio y al final ###
-## dos almoadillas al inicio y al final ##
-# una almoadillas al inicio y al final #
-
-*** 3 asteriscos al inicio
-** 2 asteriscos al inicio
-* 1 asteriscos al inicio
+# una almoadillas al inicio [H1]
+## dos almoadillas al inicio [H2]
+### tres almoadillas al inicio [H3]
 
 
-*** 3 asteriscos al inicio y al final ***
-** 2 asteriscos al inicio y al final **
-* 1 asteriscos al inicio y al final *
+* 1 asteriscos al inicio - [GENERA UN BULLET]
 
-*entre 1 asterisco*
-**entre 2 asterisco**
-***entre 3 asterisco***
+*entre 1 asterisco [CURSIVA]*
+
+**entre 2 asterisco [NEGRITA]**
+
+***entre 3 asterisco [CURSIVA+NEGRITA]***
 
 
 
-*Realizar pruebas con git*
+**Realizar pruebas con git**
+
 *Pruebas con ramas/branchs*
