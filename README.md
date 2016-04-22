@@ -17,17 +17,11 @@
 ** 2 asteriscos al inicio y al final **
 * 1 asteriscos al inicio y al final *
 
-
-@@@ tres almoadillas al inicio
-@@ dos almoadillas al inicio
-@ una almoadillas al inicio
-
-@@@ tres almoadillas al inicio y al final @@@
-@@ dos almoadillas al inicio y al final @@
-@ una almoadillas al inicio y al final @
+*entre 1 asterisco*
+**entre 2 asterisco**
+***entre 3 asterisco***
 
 
 
-*Realizar pruebas con git
-
-*Pruebas con ramas/branchs
+*Realizar pruebas con git*
+*Pruebas con ramas/branchs*
